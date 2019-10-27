@@ -1,2 +1,2 @@
 # GenericsExample
-  imitate Dictionary  in Generics Example
+Add class imitate Dictionary  in Generics Example
